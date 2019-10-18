@@ -1,2 +1,2 @@
 # info_phyton
-All about Python
+it's test project
